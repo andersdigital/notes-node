@@ -17,4 +17,4 @@ if (command === 'add') {
   console.log('Removing note');
 } else {
   console.log('Command not recognised');
-}
+};
